@@ -1,0 +1,6 @@
+Vercel Inc.
+Invoice 2026-07-VRC-3321
+Date: 2026-07-05
+Plan: Pro
+Amount: $20.00
+Status: Paid

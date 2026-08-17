@@ -1,0 +1,9 @@
+INVOICE
+Facebook Ireland Limited
+4 Grand Canal Square, Dublin 2, Ireland
+Invoice #: FBIRL-2024-991
+Date: 15/11/2024
+Description: Advertising services - Instagram
+Billed to: Lab10
+Amount due: USD 890.00
+Status: PAID

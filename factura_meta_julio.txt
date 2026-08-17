@@ -1,0 +1,9 @@
+FACTURA / INVOICE
+Meta Platforms, Inc.
+Invoice #: FB-2026-078812
+Fecha: 03/07/2026
+Concepto: Publicidad - Campañas Instagram Reels (Julio 2026)
+Cuenta publicitaria: Lab10 LATAM
+Subtotal: USD 1,240.50
+Total: USD 1,240.50
+Estado: PAGADA - cargo a tarjeta terminada en 4482

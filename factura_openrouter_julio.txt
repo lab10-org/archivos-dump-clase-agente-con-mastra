@@ -1,0 +1,7 @@
+OpenRouter, Inc.
+Usage invoice - July 2026
+Invoice: OR-2026-07-5567
+Date: 2026-07-28
+API usage (claude, gpt, gemini): $145.30
+Total: $145.30 USD
+Status: paid
